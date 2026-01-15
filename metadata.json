@@ -1,0 +1,5 @@
+{
+  "name": "Search Infor By Company V01",
+  "description": "Công cụ tra cứu thông tin doanh nghiệp (Mã số thuế, Domain) sử dụng AI và Google Search Grounding để đảm bảo độ chính xác cao.",
+  "requestFramePermissions": []
+}
